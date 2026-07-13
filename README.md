@@ -1,18 +1,18 @@
-# 🔐 Password Strength Checker
+#  Password Strength Checker
 
 A Python program that evaluates the strength of a password. The program should check for factors such as length, use of uppercase and lowercase letters, numbers, and special characters. Based on these checks, classify the password and provide clear feedback to improve security.
 
-## 📋 Features
+##  Features
 
-- ✅ Hidden password input for security
-- ✅ Checks password length (minimum 8 characters)
-- ✅ Checks for uppercase and lowercase letters
-- ✅ Checks for numbers (digits)
-- ✅ Checks for special characters (!@#$%^&* etc.)
-- ✅ Classifies passwords as Weak, Moderate, or Strong
-- ✅ Provides specific suggestions to improve password strength
+-  Hidden password input for security
+-  Checks password length (minimum 8 characters)
+-  Checks for uppercase and lowercase letters
+-  Checks for numbers (digits)
+-  Checks for special characters (!@#$%^&* etc.)
+-  Classifies passwords as Weak, Moderate, or Strong
+-  Provides specific suggestions to improve password strength
 
-## 💻 Sample Output
+##  Sample Output
 
 ### Test 1: Weak Password
 Input: `jb123`
@@ -42,6 +42,6 @@ Add atleast one special character.
 Input: `Jayesh@2026#`
 Enter your password (what you type in will be hidden for security):
 
-Password Strength: Strong ✅
+Password Strength: Strong
 Feedback: Great password! Your password meets all security criteria.
 
